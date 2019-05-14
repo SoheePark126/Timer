@@ -13,7 +13,7 @@ namespace Timer
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); 
         }
     }
 }
